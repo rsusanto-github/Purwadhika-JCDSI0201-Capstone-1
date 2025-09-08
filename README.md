@@ -4,7 +4,7 @@ Car Rental CRUD Program
 
 This is a simple Car Rental Management System written in Python. It allows users to browse cars by category, add cars to a rental cart, manage rental days, choose realistic add-ons, and checkout with a final receipt. The program uses a menu-driven system and displays information in a table format for clarity.
 
-===========\n
+===========
 Features:
 ===========
 
